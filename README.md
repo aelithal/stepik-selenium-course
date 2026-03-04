@@ -1,0 +1,2 @@
+# Selenium Automation Course (Stepik)
+This repository contains my solutions and practice projects for the "Automation Testing with Selenium and Python" course on [Stepik](https://stepik.org/course/575/info).
